@@ -9,7 +9,7 @@
 Интерфейс: MDI с меню, TreeView-навигацией, статус-баром, валидацией.
 
 Технологии
-https://github.com/shokhone/EquipmentAccounting.App/blob/master/image.png?raw=true
+
 Фронтенд: Windows Forms (.NET 8+).
 Бэкенд: C# с многослойной архитектурой (DAL, BLL, UI).
 БД: MS SQL Server (Entity Framework Core, Code First, миграции).
